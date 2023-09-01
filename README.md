@@ -1,4 +1,4 @@
- Hi, I’m Vanika
+ Hi, I’m Vanika.
 👀 I’m interested in Full Stack Development.
 🌱 I’m currently learning JavaScript, React, Node.js, and various web development technologies.
 💞️ I’m looking to collaborate on web development projects, especially those involving front-end and back-end development.
