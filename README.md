@@ -1,8 +1,8 @@
--Hi, I’m Vanika.
--👀 I’m interested in Full Stack Development.
--🌱 I’m currently learning JavaScript, React, Node.js, and various web development technologies.
--💞️ I’m looking to collaborate on web development projects, especially those involving front-end and back-end development.
--📫 How to reach me: You can reach me through my GitHub profile or via email at @vanikajain213@gmail.com.
+👋 Hi, I’m Vanika
+- 👀 I’m interested in Full Stack Development.
+- 🌱 I’m currently learning JavaScript, React, Node.js, and various web development technologies.
+- 💞️ I’m looking to collaborate on web development projects, especially those involving front-end and back-end development.
+- 📫 How to reach me: You can reach me through my GitHub profile or via email at vanikajain213@gmail.com.
 
 
 
