@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Vanika-08
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hi, I’m Vanika
+👀 I’m interested in Full Stack Development.
+🌱 I’m currently learning JavaScript, React, Node.js, and various web development technologies.
+💞️ I’m looking to collaborate on web development projects, especially those involving front-end and back-end development.
+📫 How to reach me: You can reach me through my GitHub profile or via email at @vanikajain213@gmail.com.
+
+
+
+
 
 <!---
 Vanika-08/Vanika-08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
